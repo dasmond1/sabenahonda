@@ -24,7 +24,7 @@ date_default_timezone_set('Asia/Jakarta');
 | a PHP script and you can easily do that on your own.
 |
 */
-$config['base_url'] = 'https://portal.hondalambarona.id/';
+$config['base_url'] = 'https://project.anakbossbesar.com/sabenahonda/';
 
 /*
 |--------------------------------------------------------------------------
